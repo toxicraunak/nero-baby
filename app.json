@@ -52,6 +52,11 @@
        "required": true,
        "value": ""
     },
+    "DATABASE_URL": {
+        "description": "enter postgesql url,,  https://www.elephantsql.com",
+        "required": true,
+        "value": ""
+     },
     "CASH_API_KEY": {
         "description": " Get your API key from https://www.alphavantage.co/support/#api-key",
         "required": false,
